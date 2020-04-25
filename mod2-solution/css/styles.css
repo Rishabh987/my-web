@@ -1,0 +1,30 @@
+.row{
+	margin:5px;
+
+}
+.row > div{
+	background-color:green;
+	border: 2px solid red; 
+}
+.title{
+background-color:brown;
+	border: 1px solid red; 
+	float:right;
+
+}
+#first{
+ text-align:center;
+ padding:35px;
+ font-size:35px;
+}
+
+}
+
+
+/*@media (min-width: 1900px) {
+#first{
+
+	float:center;
+}
+
+}*/
